@@ -8,7 +8,7 @@ Sistema web simples de controle de estoque (projeto acadêmico), feito com **Pyt
 - Entradas e saídas de estoque (nunca fica negativo, aceita decimais)
 - Consulta de estoque com pesquisa, percentual e status por cor
 - Notificações de estoque baixo (sino com contador)
-- Histórico de movimentações com filtros
+- Histórico de movimentações com filtros.
 
 ## 1. Instalar Python e Git
 - Python 3.10 ou superior: https://www.python.org/downloads/ (marque **"Add Python to PATH"** na instalação)

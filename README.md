@@ -1,6 +1,8 @@
-# Eduluo — Controle de Estoque
+# Eduluo — Controle de Estoque TESTE
 
 Sistema web simples de controle de estoque (projeto acadêmico), feito com **Python, Flask, SQLite, HTML e CSS**.
+
+Alunos: Eduardo Meurer, Luan Avelaneda e Otavio Santos
 
 ## Funcionalidades
 - Dashboard com indicadores calculados a partir do banco
